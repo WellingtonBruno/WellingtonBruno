@@ -23,6 +23,6 @@
   <a href = "https://api.whatsapp.com/send?phone=5511982262462&text=Ol%C3%A1%20Wellington%20possuo%20uma%20oportunidade..."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     
     
-    ![Snake animation](https://github.com/WellingtonBruno/WellingtonBruno/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/WellingtonBruno/WellingtonBruno/blob/output/github-contribution-grid-snake.svg)
     
 </div>
