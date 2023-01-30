@@ -1,4 +1,4 @@
-### Olá! eu sou o Wellington Bruno 👋
+### Olá! eu sou o Bruno Novaes 👋
 
 
 - 🔭 A procura de uma oportunidade!!!
